@@ -48,3 +48,21 @@ The daily food requirements for your body depend on various factors such as age,
 ---
 
 Would you like a more personalized meal plan or guidance based on your specific needs?
+
+
+
+Your current diet is rich in healthy fats, fiber, and essential nutrients, which is great! However, it might lack some protein and variety to meet all your nutritional needs. Here's how you can optimize it:
+
+### **Morning (Seeds and Nuts)**
+- Add a small portion of soaked almonds or walnuts for more variety in healthy fats and protein.
+- Consider including a small fruit like a banana or an apple for extra energy.
+
+### **Afternoon (Brown Rice with Curd)**
+- Add a side of cooked lentils (dal) or a boiled egg to increase protein intake.
+- Include a small portion of cooked vegetables for more vitamins and minerals.
+
+### **Night (Guava and Cucumber)**
+- Consider adding a source of protein like a handful of roasted chickpeas or a glass of buttermilk.
+- Add another fruit like papaya or berries for antioxidants.
+
+Would you like specific recipes or alternatives for any of these suggestions?
